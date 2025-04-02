@@ -1,7 +1,7 @@
-# Lincoln Adams
+# Lincoln Adams, Dakota Dowd, Caleb Caten, Isaac Pratte, and Josh Knight
 # IS 303 Section 004
 # P3 Formatting Grades in Excel
-# Description: This is a group project. Program will automatically format and organize the data.
+# Description: Program will automatically format and organize groups of student data.
 
 import openpyxl # Importing the needed modules to work with Excel in Python
 from openpyxl import Workbook
